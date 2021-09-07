@@ -48,7 +48,7 @@ export const Login = () => {
         </Form.Item>
 
         <a className="login-form-forgot" href="https://ant.design/components/form/#components-form-demo-normal-login">
-          Forgot password
+          Forgot my password
         </a>
       </Form.Item>
 
