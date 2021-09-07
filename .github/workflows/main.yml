@@ -16,5 +16,3 @@ jobs:
           heroku_app_name: "slacks-chats" #Must be unique in Heroku
           heroku_email: ${{ secrets.HEROKU_EMAIL }}
           buildpack: "https://github.com/mars/create-react-app-buildpack.git"
-      - name: Run a one-line script
-        run: echo successfully run
